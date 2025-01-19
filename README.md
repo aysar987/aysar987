@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=B205E0&center=true&vCenter=true&width=435&lines=welcome+to+xylent's+GitHub" alt="Typewriter Animation" />
 </p>
 
-<p align="left"> <img src="https://c.tenor.com/GOj9ZF_-ZOcAAAAd/tenor.gif" alt="cat" /> </p>
+<p align="left"> <img src="https://c.tenor.com/GOj9ZF_-ZOcAAAAd/tenor.gif" alt="cat" height="40" width="50"/> </p>
 
 - 🌱 I’m currently learning **React JS**
 - 📫 How to reach me: aysarakbar2006@gmail.com
