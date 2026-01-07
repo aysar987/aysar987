@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://c.tenor.com/GOj9ZF_-ZOcAAAAd/tenor.gif" alt="cat" height="300" width="300"/> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Prisma**
   
 - 📫 How to reach me: aysarakbar2006@gmail.com
   
