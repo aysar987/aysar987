@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Im Aysar</h1>
+<h1 align="center">Hi 👋, my name is Aysar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=B205E0&center=true&vCenter=true&width=435&lines=welcome+to+xylent's+GitHub" alt="Typewriter Animation" />
