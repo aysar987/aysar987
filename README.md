@@ -23,4 +23,4 @@ Right now I'm focusing on learning Artificial Intelligence so one day i make my 
 
 <p align="left"> <img src="https://c.tenor.com/GOj9ZF_-ZOcAAAAd/tenor.gif" alt="cat" height="300" width="300"/> </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aysar987&theme=dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aysar987&theme=github-compact)
