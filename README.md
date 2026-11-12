@@ -1,38 +1,26 @@
-<h1 align="center">Hi 👋, my name is Aysar</h1>
+# Hi, people call me aysar 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=B205E0&center=true&vCenter=true&width=435&lines=welcome+to+xylent's+GitHub" alt="Typewriter Animation" />
-</p>
+I'm a programmer who likes to code with claude as a mentor, currently a student in Hasanuddin University Makassar Indonesia.
+Right now I'm focusing on learning Artificial Intelligence so one day i make my own ULTRON!!
+
+## Tech Stack
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+## Projects
+- [Tasktify.id](https://github.com/aysar987/Tasktify-Main-App) 
+- [UHA!](https://github.com/aysar987/UHA--App) 
+
+## Contact Me
+- LinkedIn: [Aysar Afdhillah Akbar](https://www.linkedin.com/in/aysarakbar/)
+- Email: aysarakbar2006@gmail.com
+- Instagram: [__aysarr](https://www.instagram.com/__aysarr/)
 
 <p align="left"> <img src="https://c.tenor.com/GOj9ZF_-ZOcAAAAd/tenor.gif" alt="cat" height="300" width="300"/> </p>
 
-- 🌱 I’m currently learning **Prisma**
-  
-- 📫 How to reach me: aysarakbar2006@gmail.com
-  
-- 😄 Pronouns: Boy/Male
-  
-- ⚡ Fun fact: curious about AI and Cybersecurity
-
-### Social Media :
-
-<p align="left">
-<a href="https://discordapp.com/users/776213529245515826" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__aysarr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="30" width="40" /></a>
-</p>
-
-### Tools and Language :
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="30" width="40" />
-</p>
-
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aysar987&show_icons=true)
