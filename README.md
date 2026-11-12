@@ -21,6 +21,6 @@ Right now I'm focusing on learning Artificial Intelligence so one day i make my 
 - Email: aysarakbar2006@gmail.com
 - Instagram: [__aysarr](https://www.instagram.com/__aysarr/)
 
-<p align="left"> <img src="https://c.tenor.com/GOj9ZF_-ZOcAAAAd/tenor.gif" alt="cat" height="300" width="300"/> </p>
+<p align="middle"> <img src="https://c.tenor.com/GOj9ZF_-ZOcAAAAd/tenor.gif" alt="cat" height="300" width="300"/> </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aysar987&theme=dark)
