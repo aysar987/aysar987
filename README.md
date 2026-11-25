@@ -15,7 +15,7 @@ Right now I'm focusing on learning Artificial Intelligence so one day i make my 
 ### Projects
 - [Tasktify.id](https://github.com/aysar987/Tasktify-Main-App) 
 - [UHA!](https://github.com/aysar987/UHA--App)
-- [Authentic] (https://github.com/MiraiEst/kelompok-5_Kelas-C_pemrograman_mobile)
+- [Authentic](https://github.com/MiraiEst/kelompok-5_Kelas-C_pemrograman_mobile)
 
 ### Contact Me
 - LinkedIn: [Aysar Afdhillah Akbar](https://www.linkedin.com/in/aysarakbar/)
